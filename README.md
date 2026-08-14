@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Priscila Januario Hero Banner" width="1000" />
+  <img src="banner.svg" alt="Priscila Januario Hero Banner" width="1000" />
 </div>
 
 <br>
 
 <table border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 ### 💖 About Me
 
@@ -29,11 +29,6 @@ While my core expertise is high-converting e-commerce, I use my GitHub to experi
 
 > **Current Focus:** Actively experimenting with new things in front-end development to improve my web design skills.
 Actively experimenting with new things in front-end development to sharpen my web design skills and push my craft further.
-
-</td>
-<td width="35%" valign="top" align="center">
-
-<img src="girl-cat.jpg" width="220" alt="Pixel art girl with cat" style="border-radius: 12px; border: 2px solid #FF69B4;" />
 
 </td>
 </tr>
