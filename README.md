@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Priscila Januario Hero Banner" width="1000" />
+  <img src="banner.jpg" alt="Priscila Januario Hero Banner" width="1000" />
 </div>
 
 <br>
