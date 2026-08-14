@@ -43,10 +43,10 @@ Actively experimenting with new things in front-end development to sharpen my we
 <a href="mailto:contact@priscilacampos.com">
 <img src="https://img.shields.io/badge/Email-B497D6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/priscilajanuario" target="_blank">
+<a href="https://linkedin.com/in/prisjanuario" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-B497D6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://behance.net/priscilajanuario" target="_blank">
+<a href="https://behance.net/prisjanuario" target="_blank">
 <img src="https://img.shields.io/badge/Behance-B497D6?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
