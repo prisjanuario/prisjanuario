@@ -8,13 +8,13 @@
 <tr>
 <td width="100%" valign="top">
 
-### 💖 About Me
+### About Me
 
 I am a Web Designer focused on high-converting e-commerce. I connect commercial viability with compelling brand aesthetics.
 
 I design with a business-first mindset, where every pixel is placed to move a metric, not just to look pretty. My work sits at the intersection of sharp UX thinking, conversion strategy, and clean, scalable front-end code.
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-B497D6?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-B497D6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,7 +24,7 @@ I design with a business-first mindset, where every pixel is placed to move a me
   <img src="https://img.shields.io/badge/Tailwind_CSS-B497D6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-### 🐈 Creative Lab
+### Creative Lab
 While my core expertise is high-converting e-commerce, I use my GitHub to experiment with bold, commercial-ready visual solutions, retro aesthetics, and games. This space serves as the horizontal creative stretch of my professional skill set.
 
 > **Current Focus:** Actively experimenting with new things in front-end development to improve my web design skills.
