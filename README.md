@@ -21,7 +21,6 @@ I design with a business-first mindset, where every pixel is placed to move a me
   <img src="https://img.shields.io/badge/CSS3-B497D6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-B497D6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-B497D6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-B497D6?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Creative Lab
