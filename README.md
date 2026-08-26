@@ -10,7 +10,7 @@
 
 ### About Me
 
-UI Designer and Front-End Developer building digital interfaces for web and mobile products. I've worked with teams across the US and LATAM to turn ideas into clean, accessible user experiences. Combining visual UI design with front-end engineering, I ensure that interfaces are not only visually engaging but technically easy to implement.
+UX/UI Designer building digital interfaces for web and mobile products. I've worked with teams across the US and LATAM to turn ideas into clean, accessible user experiences. Combining UI design with front-end engineering, I ensure that interfaces are not only visually engaging but technically easy to implement.
 
 ### Tech Stack
 <p align="left">
@@ -22,9 +22,9 @@ UI Designer and Front-End Developer building digital interfaces for web and mobi
 </p>
 
 ### Creative Lab
-While my core expertise is high-converting websites, I use my GitHub to experiment with bold, retro aesthetics and games. This space serves as the horizontal creative stretch of my professional skill set.
+This space serves as the horizontal creative stretch of my professional skill set.
 
-> **Current Focus:** Actively experimenting with new things in front-end development to sharpen my web design skills and push my craft further.
+> **Current Focus:** Actively experimenting with new things in front-end development to sharpen my design skills and push my craft further.
 
 </td>
 </tr>
