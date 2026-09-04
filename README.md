@@ -10,15 +10,14 @@
 
 ### About Me
 
-UX/UI Designer building digital interfaces for web and mobile products. I've worked with teams across the US and LATAM to turn ideas into clean, accessible user experiences. Combining UI design with front-end engineering, I ensure that interfaces are not only visually engaging but technically easy to implement.
+UX/UI Designer solving complex problems for global markets. My background in Social Sciences gives me a unique perspective on human behavior, which I use to design experiences that simplify cognitive load, reduce friction, and build user confidence. Additionally, my code literacy ensures that every interface I design is optimized for realistic engineering implementation.
 
 ### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-B497D6?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-B497D6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-B497D6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-B497D6?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-B497D6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-B497D6?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ### Creative Lab
