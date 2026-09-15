@@ -1,18 +1,12 @@
-<div align="center">
-  <img src="cover-readme.jpg" alt="Priscila Januario Hero Banner" width="1000" />
-</div>
-
-<br>
-
 <table border="0" cellspacing="0" cellpadding="20">
 <tr>
 <td width="100%" valign="top">
 
-### About Me
+### About me
 
 UX/UI Designer solving complex problems for global markets. My background in Social Sciences gives me a unique perspective on human behavior, which I use to design experiences that simplify cognitive load, reduce friction, and build user confidence. Additionally, my code literacy ensures that every interface I design is optimized for realistic engineering implementation.
 
-### Tech Stack
+### Tech stack
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-B497D6?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-B497D6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +14,7 @@ UX/UI Designer solving complex problems for global markets. My background in Soc
   <img src="https://img.shields.io/badge/JavaScript-B497D6?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-### Creative Lab
+### Creative lab
 This space serves as the horizontal creative stretch of my professional skill set.
 
 > **Current Focus:** Actively experimenting with new things in front-end development to sharpen my design skills and push my craft further.
@@ -38,10 +32,10 @@ This space serves as the horizontal creative stretch of my professional skill se
 <a href="mailto:contact@priscilacampos.com">
 <img src="https://img.shields.io/badge/Email-B497D6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/prisjanuario" target="_blank">
+<a href="https://linkedin.com/in/priscilajcampos" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-B497D6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://behance.net/prisjanuario" target="_blank">
+<a href="https://behance.net/priscilajcampos" target="_blank">
 <img src="https://img.shields.io/badge/Behance-B497D6?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
