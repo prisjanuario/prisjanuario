@@ -12,12 +12,8 @@ UX/UI Designer solving complex problems for global markets. My background in Soc
   <img src="https://img.shields.io/badge/HTML5-B497D6?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-B497D6?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-B497D6?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-B497D6?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-
-### Creative lab
-This space serves as the horizontal creative stretch of my professional skill set.
-
-> **Current Focus:** Actively experimenting with new things in front-end development to sharpen my design skills and push my craft further.
 
 </td>
 </tr>
@@ -27,15 +23,15 @@ This space serves as the horizontal creative stretch of my professional skill se
 
 ![Pixel Divider](https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/08/uno_divider_by_raid0u-d5ch5z0.gif)
 
-### :love_letter: Let's Connect
+### :love_letter: Let's connect
 
 <a href="mailto:contact@priscilacampos.com">
 <img src="https://img.shields.io/badge/Email-B497D6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/priscilajcampos" target="_blank">
+<a href="https://linkedin.com/in/prisjanuario" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-B497D6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://behance.net/priscilajcampos" target="_blank">
+<a href="https://behance.net/prisjanuario" target="_blank">
 <img src="https://img.shields.io/badge/Behance-B497D6?style=for-the-badge&logo=behance&logoColor=white" />
 </a>
 
