@@ -25,7 +25,7 @@ UX/UI Designer solving complex problems for global markets. My background in Soc
 
 ### :love_letter: Let's connect
 
-<a href="mailto:contact@priscilacampos.com">
+<a href="mailto:hello@prisjanuario.com">
 <img src="https://img.shields.io/badge/Email-B497D6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/prisjanuario" target="_blank">
