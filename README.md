@@ -4,7 +4,7 @@
 
 ### About me
 
-UX/UI Designer solving complex problems for global markets. My background in Social Sciences gives me a unique perspective on human behavior, which I use to design experiences that simplify cognitive load, reduce friction, and build user confidence. Additionally, my code literacy ensures that every interface I design is optimized for realistic engineering implementation.
+Designer solving complex problems for global markets. My background in Social Sciences gives me a unique perspective on human behavior, which I use to design experiences that simplify cognitive load, reduce friction, and build user confidence. Additionally, my code literacy ensures that every interface I design is optimized for realistic engineering implementation.
 
 ### Tech stack
 <p align="left">
